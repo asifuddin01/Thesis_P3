@@ -1,2 +1,2 @@
 # config
-DATASET_PATH = r"/Volumes/Storage/datasets/p3/datasets"
+DATASET_PATH = r"C:\Asif\P3\datasets\datasets"
